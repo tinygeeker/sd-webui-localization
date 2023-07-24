@@ -14,7 +14,7 @@
 
 - 需要先下载双语汉化扩展[sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)
 - 打开 `Setting（设置）` ► `User interface（用户界面）`► `Localization（本地化）`设置None
-- 打开 `Setting（设置）` ► `Bilingual Localization（双语扩展）`► `Localization（本地化）`中选择任意一个文件
+- 打开 `Setting（设置）` ► `Bilingual Localization（双语扩展）`► `Localization file（本地化文件）`中选择任意一个文件
 - 然后点击 `Apply settings（应用设置）`► `Reload UI（重新加载UI）`重启UI界面即可
 
 ## 项目贡献
